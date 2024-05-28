@@ -9,4 +9,12 @@ This data analysis project aims to generate insight in data projects and also he
 - Microsoft power BI
 - Python
 - SQL
- 
+
+
+  ```
+  Google Query Sheet
+  
+  SELECT * FROM TABLE 1
+  WHERE CONDITION = MET
+  
+  ```
