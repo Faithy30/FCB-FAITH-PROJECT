@@ -20,4 +20,4 @@ This data analysis project aims to generate insight in data projects and also he
   ```
 ![](ENE.jpg)
 
-![](dogs)
+![](dogs.jfif)
